@@ -1,5 +1,5 @@
 const ChatWrapper = () => {
-    return <div></div>
+    return <div>Chat wrapper</div>
 }
 
 export default ChatWrapper;
